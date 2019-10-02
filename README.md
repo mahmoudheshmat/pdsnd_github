@@ -10,6 +10,9 @@ Perform data wrangling to unify the format of data from the three systems and
 write code to compute descriptive statistics.
 
 ### Files used
-three csv files for the cites
+three csv files for the cites(chicago.csv,new_york_city.csv,washington.csv)
+
+
+
 
 
