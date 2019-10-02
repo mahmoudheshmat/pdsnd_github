@@ -1,15 +1,13 @@
 ### Date created
-Include the date you created this project and README file.
+1/10/2019
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data - Python
 
 ### Description
-Describe what your project is about and what it does
+Using Python, explore data related to bikeshare systems for three american cites. Perform data wrangling to unify the format of data from the three systems and write code to compute descriptive statistics.
 
 ### Files used
-Include the files used
+three csv files for the cites
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
