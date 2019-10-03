@@ -88,6 +88,9 @@ def city_data(df):
     # start by viewing the colums of the dataset!
     print('\n viewing the colums in this city dataset! ...\n')
     print(df.columns)
+    # start by viewing the describe of the dataset!
+    print('\n viewing the describe of this city dataset! ...\n')
+    print(df.describe())
     # start by viewing the first few rows of the dataset!
     print('\n viewing the first few rows in this city dataset! ...\n')
     print(df.head())
