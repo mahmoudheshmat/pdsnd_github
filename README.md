@@ -1,14 +1,18 @@
 ### Date created
-include the date you created the project
+1/10/2019
+
 
 ### Project Title
-the project name
+Explore US Bikeshare Data - Python
 
 ### Description
-putting description of file
+Using Python, explore data related to bikeshare systems for three american cites. 
+Perform data wrangling to unify the format of data from the three systems and 
+write code to compute descriptive statistics.
+>>>>>>> documentation
 
 ### Files used
-file you used
+three csv files for the cites(chicago.csv,new_york_city.csv,washington.csv)
 
 
 
